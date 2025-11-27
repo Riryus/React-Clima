@@ -20,10 +20,13 @@ As principais dependências do projeto são:
 - **Vite** — Ferramenta de build e dev-server rápido  
 - **Axios** — Cliente HTTP usado para consumir APIs  
 
+## ATENÇÃO!!!
+Você deve ter nodejs instalado para funcionar o react, versão mais atualizada de preferência.
+
 
 ## Instalação 
-Você deve ter nodejs instalado para funcionar o react, versão mais atualizada de preferência.
 -npm install
+
 
 ## Para rodar o projeto
 -npm run dev
