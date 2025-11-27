@@ -34,4 +34,5 @@ Você deve ter nodejs instalado para funcionar o react, versão mais atualizada 
 
 ## Gif mostrando o projeto funcionando
 
-![ezgif-50fd4276f700dd81-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/904280d9-c108-45ec-8c56-68ec89bd0b0c)
+![Desktop-2025 11 27-14 53 24 02](https://github.com/user-attachments/assets/d03425d4-dd0b-48f2-97f3-5dace524510e)
+
