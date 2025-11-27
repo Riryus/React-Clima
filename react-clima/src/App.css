@@ -12,7 +12,6 @@ h1 {
 
 input{
   padding:10px;
-  border-radius:20px 0 0 20px;
   border: none;
   width:60%;
   max-width: 300px;
@@ -21,15 +20,14 @@ input{
 }
 
 button {
-  background-color: #ff9800;
+  background-color: #3864b6;
   border:0;
   padding: 10px;
-  border-radius:0 20px 20px 0;
   cursor: pointer;
   color:#fff;
   font-weight: bold;
 }
 
 button:hover {
-  background-color: #f57c00;
+  background-color: #002396;
 }
