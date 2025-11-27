@@ -25,6 +25,7 @@ Você deve ter nodejs instalado para funcionar o react, versão mais atualizada 
 
 
 ## Instalação 
+-sudo apt install npm
 -npm install
 
 
