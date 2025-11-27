@@ -13,7 +13,6 @@ A chave utilizada no código pode deixar de funcionar, caso isso aconteça você
 e a chave não funciona de imediato demora 10 min até 1 hora, mas não passa de 10 min.
 
 
-
 ## Dependências
 As principais dependências do projeto são:
 
@@ -21,12 +20,9 @@ As principais dependências do projeto são:
 - **Vite** — Ferramenta de build e dev-server rápido  
 - **Axios** — Cliente HTTP usado para consumir APIs  
 
-Todas as dependências são instaladas automaticamente via `npm install`.
-
-
 
 ## Instalação 
-Você deve ter nodejs instalado para funcionar o react , versão mais atualizada de preferência.
+Você deve ter nodejs instalado para funcionar o react, versão mais atualizada de preferência.
 -npm install
 
 ## Para rodar o projeto
